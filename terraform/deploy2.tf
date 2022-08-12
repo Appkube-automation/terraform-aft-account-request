@@ -15,7 +15,7 @@ module "sandbox08" {
   }
 
   change_management_parameters = {
-    change_requested_by = "Admin"
+    change_requested_by = "Admin User"
     change_reason       = "DevSecops Application testing"
   }
 
